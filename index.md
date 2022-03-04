@@ -10,7 +10,7 @@ I am a senior at Columbia University interested in pursuing roles in Data Scienc
 # Experience
 ---
 
-**Corofy**
+**Corofy**<br/>
 Data Analyst Intern	June 2021 – Sept. 2021
 
 - Originated real estate leads, cleaned company data sets, and scraped data from 500+ New York Realty Agencies utilizing R and Python 
@@ -20,7 +20,7 @@ Data Analyst Intern	June 2021 – Sept. 2021
 - Integrated Salesforce with companies workflows to optimize document management and storage 
 
 
-**TUZ Ventures**
+**TUZ Ventures**<br/>
 Venture Capital Data Analyst Intern	Oct. 2020 – Jan. 2021
 
 - Structured survey data on the startup landscape in central Asia by manipulating character string with regular expression using R 
@@ -28,7 +28,7 @@ Venture Capital Data Analyst Intern	Oct. 2020 – Jan. 2021
 - Presented data visualizations generated in ggplot2 to Uzbek government officials on TUZ’s Startup Industry Report of the region
 
 
-**Nicholas Institute of Sports Medicine and Athletic Trauma (NISMAT)**
+**Nicholas Institute of Sports Medicine and Athletic Trauma (NISMAT)**<br/>
 Research Assistant & Biostatistician June 2019 – Aug. 2019
 
 - Assessed raw athlete data to identify correlations between known measurements and vertical jump height 
