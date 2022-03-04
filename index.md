@@ -47,7 +47,7 @@ September 2018 - May 2022
 # Programming Languages  
 ---
 
-**Python, SQL, R, STATA, HTML** 
+Python, SQL, R, STATA, HTML 
 
 
 
