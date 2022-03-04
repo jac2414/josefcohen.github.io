@@ -3,7 +3,7 @@
 ## (401)649-1396<br/> 
 ## jac2414@columbia.edu
 ---
-###### I am a senior at Columbia University interested in pursuing roles in Data Science & Data Analytics. 
+I am a senior at Columbia University interested in pursuing roles in Data Science & Data Analytics. 
 
 [LinkedIn](https://www.linkedin.com/in/josef-cohen-0915731a0/)
 
