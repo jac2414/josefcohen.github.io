@@ -1,4 +1,4 @@
-![This is an image](https://gocolumbialions.com/images/2021/10/3/FENC_CohenJosef.jpg?width=300)
+![This is an image](https://gocolumbialions.com/images/2021/10/3/FENC_CohenJosef.jpg?width=200)
 
 # Josef Cohen
 **New York, New York - (401)649-1396 - jac2414@columbia.edu**<br/>
