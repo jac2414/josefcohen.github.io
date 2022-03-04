@@ -1,6 +1,6 @@
 # Josef Cohen
-New York, New York - (401)649-1396 - jac2414@columbia.edu<br/>
----
+**New York, New York - (401)649-1396 - jac2414@columbia.edu**<br/>
+
 I am a senior at Columbia University interested in pursuing roles in Data Science & Data Analytics. 
 
 [LinkedIn](https://www.linkedin.com/in/josef-cohen-0915731a0/)
