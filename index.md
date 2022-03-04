@@ -8,7 +8,7 @@
 # Experience
 
 **Corofy**
-###### Data Analyst Intern	June 2021 – Sept. 2021
+Data Analyst Intern	June 2021 – Sept. 2021
 
 - Originated real estate leads, cleaned company data sets, and scraped data from 500+ New York Realty Agencies utilizing R and Python 
 - Analyzed employment data to identify trends in agent churn for metrics on company retention 
@@ -18,7 +18,7 @@
 
 
 **TUZ Ventures**
-###### Venture Capital Data Analyst Intern	Oct. 2020 – Jan. 2021
+Venture Capital Data Analyst Intern	Oct. 2020 – Jan. 2021
 
 - Structured survey data on the startup landscape in central Asia by manipulating character string with regular expression using R 
 - Prepared cleaned data for founders approval using pivot tables 
@@ -26,7 +26,7 @@
 
 
 **Nicholas Institute of Sports Medicine and Athletic Trauma (NISMAT)**
-###### Research Assistant & Biostatistician June 2019 – Aug. 2019
+Research Assistant & Biostatistician June 2019 – Aug. 2019
 
 - Assessed raw athlete data to identify correlations between known measurements and vertical jump height 
 - Grouped participants into new data frames based on key performance features using Python
