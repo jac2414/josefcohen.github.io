@@ -69,9 +69,9 @@ Python, SQL, R, STATA, HTML
 # Honors and Publications 
 ---
 
-:trophy: Columbia College Dean’s List<br/>
-:trophy: Cohen, J. A., McHugh, M. P.,  Hickok, M., Virgile, A., Connolly, D. A.J. (2020). Is There an Optimal Vertical Ground Reaction Force Profile for Countermovement Jump Performance. American College of Sports Medicine, San Francisco, CA <br/>
-:trophy: McHugh, M. P., Hickok, M., Cohen, J. A., Virgile, A., Connolly, D. A.J. (2020). Is there a biomechanically efficient vertical ground reaction force profile for countermovement jumps. Translational Sports Medicine. 
+- Columbia College Dean’s List
+- Cohen, J. A., McHugh, M. P.,  Hickok, M., Virgile, A., Connolly, D. A.J. (2020). Is There an Optimal Vertical Ground Reaction Force Profile for Countermovement Jump Performance. American College of Sports Medicine, San Francisco, CA
+- McHugh, M. P., Hickok, M., Cohen, J. A., Virgile, A., Connolly, D. A.J. (2020). Is there a biomechanically efficient vertical ground reaction force profile for countermovement jumps. Translational Sports Medicine. 
 
 
 
