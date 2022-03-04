@@ -6,6 +6,7 @@
 [LinkedIn](https://www.linkedin.com/in/josef-cohen-0915731a0/)
 
 
+
 # Experience
 ---
 
@@ -35,12 +36,13 @@ Research Assistant & Biostatistician June 2019 – Aug. 2019
 - Prepared subjects by placing electrodes, motion capturing sensors, and flex sensors 
 
 
+
 # Education 
 ---
 
 **Columbia University**<br/>
 Bachelor of Arts in Neuroscience and Applied Statistics Concentration<br/> 
-September 2018 - May 2022 
+Sept. 2018 - May 2022 
 
 
 
