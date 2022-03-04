@@ -1,11 +1,13 @@
 # Josef Cohen
 ###### New York, New York - (401)649-1396 - jac2414@columbia.edu
+---
 ###### I am a senior at Columbia University interested in pursuing roles in Data Science & Data Analytics. 
 
 [LinkedIn](https://www.linkedin.com/in/josef-cohen-0915731a0/)
 
 
 # Experience
+---
 
 **Corofy**
 Data Analyst Intern	June 2021 – Sept. 2021
@@ -34,20 +36,23 @@ Research Assistant & Biostatistician June 2019 – Aug. 2019
 
 
 # Education 
+---
 
-**Columbia University**
-* *Bachelor of Arts in Neuroscience and Applied Statistics Concentration* 
-* *September 2018 - May 2022* 
+**Columbia University**<br/>
+Bachelor of Arts in Neuroscience and Applied Statistics Concentration<br/> 
+September 2018 - May 2022 
 
 
 
 # Programming Languages  
+---
 
 **Python, SQL, R, STATA, HTML** 
 
 
 
 # Relevant Coursework 
+---
 
 - Applied Statistical Computing
 - Applied Linear Regression Analysis
@@ -60,6 +65,7 @@ Research Assistant & Biostatistician June 2019 – Aug. 2019
 
 
 # Honors and Publications 
+---
 
 - Columbia College Dean’s List
 - Cohen, J. A., McHugh, M. P.,  Hickok, M., Virgile, A., Connolly, D. A.J. (2020). Is There an Optimal Vertical Ground Reaction Force Profile for Countermovement Jump Performance. American College of Sports Medicine, San Francisco, CA 
